@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spacets", "Spacets.csproj", "{431E9827-484E-7380-F5CA-C6EB3AA6DCBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spacets.Editor", "Spacets.Editor.csproj", "{A3071D2C-AAC3-DC30-37E3-BB0D81D97BAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{431E9827-484E-7380-F5CA-C6EB3AA6DCBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{431E9827-484E-7380-F5CA-C6EB3AA6DCBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{431E9827-484E-7380-F5CA-C6EB3AA6DCBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{431E9827-484E-7380-F5CA-C6EB3AA6DCBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3071D2C-AAC3-DC30-37E3-BB0D81D97BAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3071D2C-AAC3-DC30-37E3-BB0D81D97BAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3071D2C-AAC3-DC30-37E3-BB0D81D97BAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3071D2C-AAC3-DC30-37E3-BB0D81D97BAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
